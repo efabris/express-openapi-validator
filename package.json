@@ -59,7 +59,7 @@
     "codacy-coverage": "^3.4.0",
     "cookie-parser": "^1.4.5",
     "coveralls": "^3.0.11",
-    "deasync": "^0.1.19",
+    "deasync": "^0.1.21",
     "express": "^4.17.1",
     "mocha": "^7.1.1",
     "morgan": "^1.10.0",
